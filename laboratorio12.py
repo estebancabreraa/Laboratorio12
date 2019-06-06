@@ -1,8 +1,5 @@
-#Universidad del Valle de Guatemala
-#Bases de Datos
-#Laboratorio 12
-#Ing. Hector Hurtarte
-#David Uriel Soto Alvarez 17551
+#Esteban Cabrera Arevalo
+#17781
 
 import psycopg2
 from psycopg2 import Error
